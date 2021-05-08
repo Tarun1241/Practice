@@ -1,1 +1,3 @@
 Hello This is the document created for the practice of Git.
+
+I am updating this file to check how git tracks the modification in the file.
